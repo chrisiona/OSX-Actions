@@ -14,7 +14,7 @@ if [ ! -d "$OSXACTIONSPATH" ]
     echo "  [x] Directory '$OSXACTIONSPATH' already exists"
 fi
 
-SCRIPTS=( 'Sleep' 'Restart' 'Shutdown' 'Start Screensaver' )
+SCRIPTS=( 'Sleep' 'Restart' 'Shutdown' 'Logout' 'Start Screensaver' )
 
 for script in "${SCRIPTS[@]}"
 do
