@@ -39,7 +39,7 @@ $ bash install.sh
   https://github.com/chrisiona/OSX-Actions
 ```
 
-And that's it folks!  Open Spotlight ( `[command] + [spacebar]` ) and start typing one of the available actions. 
+And that's it folks!  Open up Spotlight by pressing `[command]+[spacebar]`, and start typing one of the available actions. 
 
 ## CONTRIBUTING
 
