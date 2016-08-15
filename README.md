@@ -1,5 +1,5 @@
-# OSX-Actions
-Introducing, a set of OSX—Actions that can be called from withing Spotlight.
+# OSX–Actions
+Introducing, a set of OSX–Actions that can be called from withing Spotlight.
 
 ![Spotlight](readme-files/sleep.png)
 
