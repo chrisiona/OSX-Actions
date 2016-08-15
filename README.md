@@ -19,7 +19,7 @@ $ cd ~/Documents
 $ git clone https://github.com/chrisiona/OSX-Actions.git
 ```
 
-Next let's run the installation script, which compiles the code.
+Next let's run the installation script, which compiles the code into the directory `/Applications/OSX Actions`. 
 
 ```bash
 $ cd OSX-Actions
@@ -39,10 +39,15 @@ $ bash install.sh
   https://github.com/chrisiona/OSX-Actions
 ```
 
+And that's it folks!  Open Spotlight ( `[command] + [spacebar]` ) and start typing one of the available actions. 
+
 ## CONTRIBUTING
 
-Did you find a bug?  Awesome job!  Can I ask that you please [create a ticket](https://github.com/chrisiona/OSX-Actions/issues).
-Otherwise, I'd love to see a Pull Request with a patch :)   
+Did you have an idea for this project, or find a bug?  Awesome job!
+
+Can I ask that you please [create a ticket](https://github.com/chrisiona/OSX-Actions/issues).
+
+Otherwise, I'd love to see a the patch in a Pull Request :)   
 
 
 ## LICENSE
